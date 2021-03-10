@@ -5,7 +5,7 @@
     "env": {
         "UUID": {
             "description": "xray UUID",
-            "value": "c95ef1d4-f3ac-4586-96e9-234a37dda068"        
+            "value": "eb46c254-04be-457c-8c4e-3bd3d4a58171"        
         },
         "PROTOCOL": {
             "description": "xray protocol, vmess or vless",
